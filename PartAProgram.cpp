@@ -1,5 +1,5 @@
 // "PartAProgram.cpp" is a modification of "HCFandLCM.cpp" coded by myself.
-// It has been modified to be a supplement to the answer to Part 1a.
+// It has been modified for the purpose of being a supplement to the answer to Part 1a.
 // By Talvin Jacobs (2018)
 
 // Includes
