@@ -16,9 +16,9 @@ int main() {
   int a,b,c;
 
   cout << "Please enter your first number: ";
-  cin >>a;	// The first number is taken in
+  cin >> a;	// The first number is taken in
   cout<< "Please enter your second number: ";
-  cin >>b;	// The second number is taken in
+  cin >> b;	// The second number is taken in
   
   c=a*b;	// The third variable is the product of the two numbers given
 
