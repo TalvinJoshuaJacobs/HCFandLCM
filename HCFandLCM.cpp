@@ -1,4 +1,4 @@
-// "HCF and LCM" is a calculator that calculates the
+// "HCF and LCM" is a generic program that calculates the
 // Highest Common Factor and the Lowest Common Multiple
 // for 2 entered numbers, coded in C++.
 // By Talvin Jacobs (2018)
