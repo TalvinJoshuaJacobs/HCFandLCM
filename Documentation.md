@@ -109,11 +109,17 @@ There are two steps to reaching the solution to the problem:
 If the first mile takes 6 minutes, and each mile after takes an additional 5%, then the following pattern can be noticed:
 
 1st mile: 6 mins
+
 2nd mile: 6 x 1.05 mins
+
 3rd mile: 6 x (1.05)^2 mins
+
 4th mile: 6 x (1.05)^3 mins
+
 .
+
 .
+
 26th mile: 6 x (1.05)^25 mins
 
 The pattern has now been observed and the first step towards the solution is complete. Next, a formula will be used to summate the times to work out the total time. 
@@ -131,3 +137,8 @@ This gives the answer in minutes.
 *The total number of minutes is: 286.36...*
 *In seconds:  17181.75...*
 ***To the nearest second: 17182 seconds.***
+
+
+
+
+
