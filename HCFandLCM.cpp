@@ -15,10 +15,10 @@ int main() {
   // Labelling a, b and c as integers
   int a,b,c;
 
-  cout<< "Please enter your first number: ";
-  cin>>a;	// The first number is taken in
+  cout << "Please enter your first number: ";
+  cin >>a;	// The first number is taken in
   cout<< "Please enter your second number: ";
-  cin>>b;	// The second number is taken in
+  cin >>b;	// The second number is taken in
   
   c=a*b;	// The third variable is the product of the two numbers given
 
@@ -29,8 +29,8 @@ int main() {
         b=b-a;	// 'New b' is set to be the difference between the two numbers
     }
     
-  cout<< "HCF = " << a <<endl;	// 'New a' is the Highest Common Factor
-  cout<< "LCM = " << c/a <<endl;	// c is the Lowest Common Multiple
+  cout << "HCF = " << a << endl;	// 'New a' is the Highest Common Factor
+  cout << "LCM = " << c/a << endl;	// c is the Lowest Common Multiple
 
   return 0;
   
