@@ -138,7 +138,62 @@ This gives the answer in minutes.
 *In seconds:  17181.75...*
 ***To the nearest second: 17182 seconds.***
 
+### Part 3
 
+> "Find a multiplicative inverse modulo **9** of each of the following integers."
 
+**A:** *1*
 
+1 x 0 = 0. Remainder = 0
 
+1 x **1** = 1. Remainder = 1 {ANSWER REACHED: **1**}
+
+**B:** *5*
+
+5 X 0 = 0. Remainder =  0
+
+5 x 1 = 5. Remainder = 5
+
+5 x **2** = 10. Remainder = 1 {ANSWER REACHED: **2**}
+
+**C:** *7*
+
+7 x 0 = 0. Remainder = 0
+
+7 x 1 = 7. Remainder = 7
+
+7 x 2 = 14. Remainder = 5
+
+7 x 3 = 21. Remainder = 3
+
+7 x **4** = 28. Remainder = 1 {ANSWER REACHED: **4**}
+
+**D:** *16*
+
+16 x 0 = 0. Remainder = 0
+
+16 x 1 = 16. Remainder = 7
+
+16 x 2 = 32. Remainder = 5
+
+16 x 3 = 48. Remainder = 3
+
+16 x **4** = 64. Remainder = 1 {ANSWER REACHED: **4**}
+
+> "Show that each of the following integers doesn't have a multiplicative inverse modulo 9."
+
+**A:** *0*
+
+In the real _numbers_, zero _does not have_ a _reciprocal_ because _no_ real _number_ multiplied by 0 produces 1 (the product of any _number_ with zero _is_ zero).
+
+**B:** *6*
+
+6 does not have a multiplicative inverse modulo 9 because the numbers 6 and 9 share a common prime factor which is 3.
+
+**C:** *18*
+
+18 does not have a multiplicative inverse modulo 9 because the numbers 18 and 9 both share common prime factors which are 2 and 3.
+
+### Part 4
+
+> "Produce a detailed written explanation of the importance of prime numbers within the field of computing."
