@@ -197,3 +197,5 @@ In the real _numbers_, zero _does not have_ a _reciprocal_ because _no_ real _nu
 ### Part 4
 
 > "Produce a detailed written explanation of the importance of prime numbers within the field of computing."
+
+This report provides a detailed written explanation regarding the importance of prime numbers which is supplemented by their definition and supported with examples of their use in the field of computing.
