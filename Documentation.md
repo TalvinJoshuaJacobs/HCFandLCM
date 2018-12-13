@@ -128,15 +128,11 @@ Formula:
 
 ![](https://i.imgur.com/FOk1TrX.png)
 
-In context:
-
-![](https://i.imgur.com/KJiozT6.png)
-
 This gives the answer in minutes. 
 
-*The total number of minutes is: 286.36...*
-*In seconds:  17181.75...*
-***To the nearest second: 17182 seconds.***
+*The total number of minutes is: 306.68...*
+*In seconds:  18400.84335...*
+***To the nearest second: 18400 seconds.***
 
 ### Part 3
 
